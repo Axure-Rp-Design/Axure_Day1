@@ -29,6 +29,9 @@ This project is a basic login page prototype designed using Axure. It demonstrat
 - Interact with the login fields and buttons to experience the design flow.
 
 ## Outputs
+![Screenshot 1](https://github.com/user-attachments/assets/2fa5f0d5-e03e-4038-a367-7bb3365339b8)
+
+![Screenshot 2](https://github.com/user-attachments/assets/62aa9142-2178-4d19-974f-c4e6ab4ddd59)
 
 
 
